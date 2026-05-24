@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Véra",
+  "description": "An elite architectural portfolio curated as a rare fine art gallery. Rejects standard real estate clichés in favor of material realism, editorial storytelling, and silent power.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
